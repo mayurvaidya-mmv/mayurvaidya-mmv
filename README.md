@@ -15,7 +15,7 @@ and intelligent automation**.
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mayurvaidya-mmv">
-    <img src="https://komarev.com/ghpvc/?username=mayurvaidya-mmv&style=flat-square&label=Profile%20Views" />
+    <img src="https://komarev.com/ghpvc/?username=mayurvaidya-mmv&base=481&style=flat-square&label=Profile%20Views" />
   </a>
 </p>
 
