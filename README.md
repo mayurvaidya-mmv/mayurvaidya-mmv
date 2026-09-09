@@ -87,7 +87,7 @@ water monitoring, automated alerts and controlled usage.
 | 🤖 AI & Intelligent Systems | Local LLMs, AI agents, ML, computer vision |
 | ☁️ Cloud & Data | AWS, serverless systems, data pipelines |
 | 🔌 IoT & Embedded | Sensors, microcontrollers, MQTT, telemetry |
-| ⚡ Electrical Systems | Energy monitoring, power quality, instrumentation |
+| ⚡ Electrical Systems | Control System, Energy monitoring, Power quality, Instrumentation |
 | 🚀 Space Technology | Avionics, telemetry & experimental systems |
 | 🐧 Linux | Systems, automation & developer tooling |
 
@@ -97,12 +97,12 @@ water monitoring, automated alerts and controlled usage.
 
 **Languages**
 
-`Python` `C` `C++` `Embedded C` `JavaScript` `SQL`
+`Python` `C` `C++` `Embedded C` `SQL`
 
 **AI / Data**
 
-`Machine Learning` `Computer Vision` `OpenCV`
-`scikit-learn` `Local LLMs` `AI Agents`
+`Machine Learning` `Computer Vision` `OpenCV` 
+`Pandas` `scikit-learn` `Local LLMs` `AI Agents` 
 
 **Cloud / Infrastructure**
 
@@ -112,7 +112,7 @@ water monitoring, automated alerts and controlled usage.
 **IoT / Embedded**
 
 `MQTT` `Modbus` `Arduino` `STM32`
-`ESP8266` `Sensors` `GSM`
+`ESP` `Sensors` `GSM`
 
 **Development**
 
