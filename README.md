@@ -2,8 +2,6 @@
 
 ### AI • Data • Cloud • IoT • Embedded Systems | Electrical Engineer
 
-I build practical systems at the intersection of **electrical engineering,
-intelligent software, connected devices and cloud infrastructure**.
 
 I enjoy taking an idea from hardware and data collection all the way to
 a usable software system — and lately, exploring **local LLMs, AI agents
@@ -14,7 +12,7 @@ and intelligent automation**.
     <img src="https://img.shields.io/badge/Portfolio-mayurmvaidya.in-000000?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mayurvaidya">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="linkedin.com/in/mayur-vaidya-a27356224" />
   </a>
   <a href="https://github.com/mayurvaidya-mmv">
     <img src="https://komarev.com/ghpvc/?username=mayurvaidya-mmv&style=flat-square&label=Profile%20Views" />
@@ -172,7 +170,7 @@ AI/IoT projects and opportunities to build useful systems.**
 
 <p align="left">
   <a href="https://mayurmvaidya.in">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/mayurvaidya">💼 LinkedIn</a> ·
+  <a href="linkedin.com/in/mayur-vaidya-a27356224">💼 LinkedIn</a> ·
   <a href="mailto:mayurvaidya.mmv@gmail.com">📧 Email</a>
 </p>
 
