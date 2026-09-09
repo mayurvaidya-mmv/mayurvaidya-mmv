@@ -11,8 +11,8 @@ and intelligent automation**.
   <a href="https://mayurmvaidya.in">
     <img src="https://img.shields.io/badge/Portfolio-mayurmvaidya.in-000000?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mayurvaidya">
-    <img src="linkedin.com/in/mayur-vaidya-a27356224" />
+  <a href="https://www.linkedin.com/in/mayur-vaidya-a27356224/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mayurvaidya-mmv">
     <img src="https://komarev.com/ghpvc/?username=mayurvaidya-mmv&style=flat-square&label=Profile%20Views" />
@@ -117,7 +117,7 @@ water monitoring, automated alerts and controlled usage.
 **Development**
 
 `Git` `GitHub Actions` `REST APIs`
-`Node.js` `Express.js`
+`Node.js`
 
 ---
 
@@ -142,9 +142,13 @@ reducing congestion and improving traffic flow.
 
 ## 🏆 Certification
 
-**AWS Certified AI Practitioner**
+**AWS Certified AI Practitioner** 
 
 Amazon Web Services · 2026
+
+**IBM AI, ML and NLP**
+
+IBM . 2025 - 2026
 
 ---
 
@@ -170,7 +174,7 @@ AI/IoT projects and opportunities to build useful systems.**
 
 <p align="left">
   <a href="https://mayurmvaidya.in">🌐 Portfolio</a> ·
-  <a href="linkedin.com/in/mayur-vaidya-a27356224">💼 LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/mayur-vaidya-a27356224/">💼 LinkedIn</a> ·
   <a href="mailto:mayurvaidya.mmv@gmail.com">📧 Email</a>
 </p>
 
